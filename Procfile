@@ -1,1 +1,1 @@
-web: mono bin/Release/SharpHero.exe
+web: mono SharpHero/bin/Release/SharpHero.exe
